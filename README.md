@@ -1,2 +1,6 @@
 # Angular
 Learnings
+
+
+# components
+- value
